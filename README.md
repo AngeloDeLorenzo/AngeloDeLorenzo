@@ -4,11 +4,9 @@
 
 <img src="assets/cover.svg" alt="Sviluppo web, qualità digitale, comunicazione e processi" width="100%">
 
-
-
-# Angelo De Lorenzo
-
 <img src="assets/portrait.webp" alt="Ritratto di Angelo De Lorenzo" align="right" width="155">
+
+### Angelo De Lorenzo
 
 **Senior Web Solutions & Digital Systems Specialist**
 
@@ -194,5 +192,3 @@ piattaforma comprensibile, utilizzabile e manutenibile.
 - [Esperienza](knowledge/experience.md) · [Progetti verificabili](knowledge/projects.md)
 - [Open source](knowledge/open-source.md) · [Metodo](knowledge/work-method.md)
 - [FAQ](knowledge/faq.md) · [Prove pubbliche](knowledge/evidence.md)
-
-[Versione estesa precedente](README.extended.md)
