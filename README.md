@@ -4,9 +4,11 @@
 
 <img src="assets/cover.svg" alt="Sviluppo web, qualità digitale, comunicazione e processi" width="100%">
 
-<img src="assets/portrait.webp" alt="Ritratto di Angelo De Lorenzo" align="right" width="155">
 
-### Angelo De Lorenzo
+
+# Angelo De Lorenzo
+
+<img src="assets/portrait.webp" alt="Ritratto di Angelo De Lorenzo" align="right" width="155">
 
 **Senior Web Solutions & Digital Systems Specialist**
 
