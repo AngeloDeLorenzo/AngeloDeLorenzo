@@ -4,9 +4,9 @@
 
 <img src="assets/cover.en.svg" alt="Web development, digital quality, communication and workflows" width="100%">
 
-# Angelo De Lorenzo
-
 <img src="assets/portrait.webp" alt="Portrait of Angelo De Lorenzo" align="right" width="155">
+
+### Angelo De Lorenzo
 
 **Senior Web Solutions & Digital Systems Specialist**
 
@@ -188,5 +188,3 @@ that people can understand, use and maintain.
 - [Experience](knowledge/experience.en.md) · [Verifiable projects](knowledge/projects.en.md)
 - [Open source](knowledge/open-source.en.md) · [Working method](knowledge/work-method.en.md)
 - [FAQ](knowledge/faq.en.md) · [Public evidence](knowledge/evidence.en.md)
-
-[Previous extended version](README.extended.en.md)
