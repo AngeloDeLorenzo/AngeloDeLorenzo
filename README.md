@@ -6,7 +6,7 @@
 
 <img src="assets/portrait.webp" alt="Ritratto di Angelo De Lorenzo" align="right" width="155">
 
-# Angelo De Lorenzo
+### Angelo De Lorenzo
 
 **Senior Web Solutions & Digital Systems Specialist**
 
