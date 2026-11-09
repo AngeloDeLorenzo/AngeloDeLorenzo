@@ -1,11 +1,3 @@
----
-title: GitHub profile knowledge
-layer: assets
-type: rendered_asset
-status: in_review
-classification: INTERNAL
----
-
 # Working method
 
 I start from the problem and context of use, then organise content, data,

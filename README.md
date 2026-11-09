@@ -1,18 +1,16 @@
-<p align="right"><sub>TORINO, ITALIA · PROFILO PROFESSIONALE · SETTEMBRE 2026</sub></p>
+<p align="right"><sub>TORINO, ITALIA · PROFILO PROFESSIONALE · NOVEMBRE 2026</sub></p>
 
 **Italiano** · [English](README.en.md)
 
-<img src="assets/cover.svg" alt="Sviluppo web, qualità digitale, comunicazione e processi" width="100%">
-
-# Angelo De Lorenzo
+<img src="assets/cover.svg" alt="WordPress e sistemi web: strumenti, qualità e AI applicata" width="100%">
 
 <img src="assets/portrait.webp" alt="Ritratto di Angelo De Lorenzo" align="right" width="155">
 
-**Senior Web Solutions & Digital Systems Specialist**
+### Angelo De Lorenzo
 
-Progetto e sviluppo sistemi digitali collegando WordPress, contenuti, dati,
-accessibilità e processi di lavoro. La base è tecnica; il lavoro comprende
-anche UX, SEO, comunicazione visiva e documentazione.
+**WordPress, Web Systems & Applied AI**
+
+Realizzo siti WordPress, plugin, integrazioni e strumenti per i processi operativi. I miei progetti collegano contenuti, accessibilità e qualità tecnica; progetto anche ambienti di lavoro per agenti di coding, con conoscenza, strumenti e verifiche.
 
 [Sito e portfolio](https://angelodelorenzo.it/) · [LinkedIn](https://www.linkedin.com/in/angelodelorenzo/) · [WordPress.org](https://profiles.wordpress.org/angelo_de_lorenzo/) · [Email](mailto:info@angelodelorenzo.it)
 
@@ -21,8 +19,8 @@ anche UX, SEO, comunicazione visiva e documentazione.
 <!--
 PROFILE INDEX
 name: Angelo De Lorenzo
-primary_role: Senior Web Solutions & Digital Systems Specialist
-roles: WordPress developer; WooCommerce developer; digital systems specialist; technical SEO and accessibility specialist; creative technologist
+primary_contribution: web systems, plugins, integrations, operational tools and applied AI, with responsibility for direct client projects
+responsibilities: needs analysis; proposals and estimates; direct client relationships; hands-on implementation; creative coordination
 domains: WordPress, WooCommerce, accessibility, WCAG, technical SEO, performance, UX, content architecture, integrations, Linux open source, applied AI
 professional_context: CGM Consulting; CGM Verse
 public_projects: FacileAutoRicambi; Miriam Giancane; Lumen ARIA Blocks; Couch Remote; WP OneShot
@@ -40,11 +38,12 @@ evidence: portfolio case studies; WordPress.org; GitHub; Snap Store; wponeshot.c
 | **WordPress e WooCommerce** | Siti, plugin, Gutenberg, e-commerce, backend, API e manutenzione. |
 | **Qualità digitale** | Accessibilità, requisiti WCAG applicabili, SEO tecnica, performance e tracking. |
 | **Sistemi e processi** | Integrazioni, dati, permessi, workflow e strumenti operativi. |
+| **Clienti e progetti** | Analisi, proposta e preventivo, priorità e relazione diretta. |
 | **UX e comunicazione** | Architettura dei contenuti, interfacce, identità, 3D e presentazioni. |
 
-Ruoli compatibili: WordPress/WooCommerce developer, web solutions specialist,
-digital systems specialist, technical SEO/accessibility specialist e creative
-technologist.
+Per i clienti diretti seguo analisi, proposta e preventivo, priorità,
+scadenze e comunicazione. Il lavoro tecnico e il confronto con i creativi
+sostengono lo stesso progetto, dalle scelte iniziali all’uso quotidiano.
 
 ### Risposte rapide
 
@@ -55,9 +54,16 @@ technologist.
 
 ## Esperienza
 
+### CGM Verse · dal 2023
+
+Creative Director: identità, interfacce, ambienti 3D, rendering, video,
+brochure e presentazioni, in collaborazione con la direzione tecnica.
+Il lavoro comprende coordinamento del team creativo, materiali per eventi e
+confronto con interlocutori aziendali, collaboratori e potenziali investitori.
+
 ### CGM Consulting · dal 2018
 
-Web Technician: sviluppo e manutenzione di siti WordPress, recruiting, SEO,
+Senior Web Solutions & Digital Systems Specialist: sviluppo e manutenzione di siti WordPress, strumenti digitali a supporto del recruiting, SEO,
 analytics, accessibilità, contenuti, integrazioni e strumenti custom. Nel
 redesign del sito corporate ho collegato identità, contenuti dinamici, template
 per le offerte di lavoro, dati strutturati, Google Jobs, analytics e materiali
@@ -68,13 +74,6 @@ la consulenza su WordPress headless, la riorganizzazione di interfacce e
 processi, il tutoraggio di stagisti e la formazione. Ho sviluppato un plugin
 WordPress che collega il sito al gestionale di recruiting e mostra conteggi
 aggregati dei candidati per competenza.
-
-### CGM Verse · dal 2023
-
-Creative Director: identità, interfacce, ambienti 3D, rendering, video,
-brochure e presentazioni, in collaborazione con la direzione tecnica.
-Il lavoro comprende coordinamento del team creativo, materiali per eventi e
-confronto con interlocutori aziendali, collaboratori e potenziali investitori.
 
 ### Attività indipendente · 2013–2017
 
@@ -116,9 +115,7 @@ mentre l’organizzazione cambia.
 
 ### Gestionale WordPress headless
 
-Backend applicativo con contenuti strutturati, dipendenze tra campi,
-autenticazione Microsoft, permessi granulari e API REST custom per servizi,
-disponibilità e prenotazioni.
+Lavoro in team sul backend applicativo WordPress per un system integrator, nel contesto di CGM Consulting: contenuti strutturati, dipendenze tra campi, autenticazione Microsoft, permessi granulari e API REST custom per servizi, disponibilità e prenotazioni.
 Il frontend separato consuma dati organizzati dal CMS; il valore del progetto
 sta nel disegnare confini, ruoli e responsabilità prima della superficie visiva.
 
@@ -126,7 +123,7 @@ sta nel disegnare confini, ruoli e responsabilità prima della superficie visiva
 
 ### IvoryLab Guitar Shop
 
-E-commerce WooCommerce seguito tra catalogo, dropshipping, SEO, checkout,
+E-commerce WooCommerce seguito per CGM Consulting tra catalogo, dropshipping, SEO, checkout,
 pagamenti, accessibilità, performance, analytics e manutenzione evolutiva.
 La continuità richiede verifiche su prodotti, fornitori, eventi di conversione
 e aggiornamenti, oltre alla sola pubblicazione delle pagine.
@@ -140,7 +137,9 @@ mostrare conteggi aggregati dei candidati per competenza.
 Il progetto traduce una necessità interna in una funzione pubblica controllata,
 senza esporre dati individuali.
 
-## Open source
+<a name="open-source"></a>
+
+## Open source e progetti personali
 
 ### Lumen ARIA Blocks
 

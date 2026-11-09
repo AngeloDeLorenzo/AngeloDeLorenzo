@@ -1,11 +1,3 @@
----
-title: GitHub profile knowledge
-layer: assets
-type: rendered_asset
-status: in_review
-classification: INTERNAL
----
-
 # Competenze
 
 | Area | Capacità dimostrata |

@@ -1,31 +1,7 @@
----
-title: GitHub profile knowledge
-layer: assets
-type: rendered_asset
-status: in_review
-classification: INTERNAL
----
+# Profilo e contributo
 
-# Profilo e ruoli
+Angelo De Lorenzo realizza siti WordPress, plugin, e-commerce, integrazioni e strumenti operativi. Il lavoro comprende qualità web, accessibilità, contenuti e sistemi di lavoro per l'AI applicata.
 
-## Identità professionale
+Per i clienti diretti segue anche analisi, proposta e preventivo, priorità, scadenze e comunicazione. Lavora con WordPress dal 2012 e collega la realizzazione al confronto con persone e team.
 
-Angelo De Lorenzo è un **Senior Web Solutions & Digital Systems Specialist**.
-La base è lo sviluppo WordPress; il perimetro comprende sistemi web,
-accessibilità, SEO, dati, UX, contenuti e processi operativi.
-
-## Ruoli compatibili
-
-- WordPress / WooCommerce developer
-- Web solutions specialist
-- Digital systems specialist
-- Technical SEO and accessibility specialist
-- Creative technologist con esperienza in 3D e comunicazione visiva
-- Developer tooling e agentic work systems
-
-## Contesti
-
-Dal 2018 lavora in CGM Consulting su presenza web, strumenti WordPress,
-recruiting e progetti per clienti. Dal 2023 cura la direzione creativa di CGM
-Verse. I progetti personali includono Lumen ARIA Blocks, Couch Remote e WP
-OneShot.
+Dal 2018 lavora in CGM Consulting come Senior Web Solutions & Digital Systems Specialist. In CGM Verse, dal 2023, il ruolo pubblico è Creative Director. Le esperienze documentano insieme realizzazione e collaborazione con tecnici e creativi.

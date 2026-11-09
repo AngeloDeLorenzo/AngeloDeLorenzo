@@ -1,17 +1,8 @@
----
-title: GitHub profile knowledge
-layer: assets
-type: rendered_asset
-status: in_review
-classification: INTERNAL
----
-
 # Domande frequenti
 
-### Angelo è principalmente sviluppatore o designer?
+### Quale contributo porta Angelo in un progetto?
 
-La base è tecnica, ma il lavoro unisce sviluppo, contenuti, UX, accessibilità,
-SEO e comunicazione visiva. Il peso di ogni area varia in base al progetto.
+Realizza e fa evolvere sistemi web, collegando contenuti, dati e processi operativi. Per i clienti diretti segue anche analisi, proposta, priorità e comunicazione. Direzione creativa e AI applicata ampliano questo contributo attraverso progetti documentati.
 
 ### Ha esperienza con e-commerce?
 
@@ -21,8 +12,7 @@ checkout, dati, tracking e manutenzione evolutiva.
 ### Ha esperienza concreta in accessibilità?
 
 Sì: Lumen ARIA Blocks e i progetti web applicano tastiera, focus, semantica,
-progressive enhancement e requisiti WCAG pertinenti. Non viene dichiarata una
-certificazione formale.
+progressive enhancement e requisiti WCAG pertinenti.
 
 ### Che cosa significa AI applicata nel suo profilo?
 
