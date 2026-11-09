@@ -29,7 +29,7 @@ evidence: portfolio case studies; WordPress.org; GitHub; Snap Store; wponeshot.c
 
 ---
 
-[Profile](#profile) · [Experience](#experience) · [Projects](#projects) · [Open source](#open-source) · [Method](#method) · [Further reading](#further-reading)
+[Profile](#profile) · [Experience](#experience) · [Projects](#projects) · [Open source](#open-source-and-personal-projects) · [Method](#method) · [Further reading](#further-reading)
 
 ## Profile
 
