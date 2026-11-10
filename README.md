@@ -58,20 +58,24 @@ sostengono lo stesso progetto, dalle scelte iniziali all’uso quotidiano.
 
 Creative Director: identità, interfacce, ambienti 3D, rendering, video,
 brochure e presentazioni, in collaborazione con la direzione tecnica.
+
 Il lavoro comprende coordinamento del team creativo, materiali per eventi e
 confronto con interlocutori aziendali, collaboratori e potenziali investitori.
 
 ### CGM Consulting · dal 2018
 
 Senior Web Solutions & Digital Systems Specialist: sviluppo e manutenzione di siti WordPress, strumenti digitali a supporto del recruiting, SEO,
-analytics, accessibilità, contenuti, integrazioni e strumenti custom. Nel
-redesign del sito corporate ho collegato identità, contenuti dinamici, template
+analytics, accessibilità, contenuti, integrazioni e strumenti custom.
+
+Nel redesign del sito corporate ho collegato identità, contenuti dinamici, template
 per le offerte di lavoro, dati strutturati, Google Jobs, analytics e materiali
 visuali a una presenza digitale più coerente con l’attività aziendale.
 
 Nel lavoro quotidiano seguo anche il rapporto con clienti e fornitori tecnici,
 la consulenza su WordPress headless, la riorganizzazione di interfacce e
-processi, il tutoraggio di stagisti e la formazione. Ho sviluppato un plugin
+processi, il tutoraggio di stagisti e la formazione.
+
+Ho sviluppato un plugin
 WordPress che collega il sito al gestionale di recruiting e mostra conteggi
 aggregati dei candidati per competenza.
 
@@ -88,6 +92,7 @@ nel 2026.
 Evoluzione seguita dal 2018 per CGM Consulting. Il nuovo sito 2026 migliora
 esperienza utente e accessibilità, introduce acquisto diretto e percorsi
 WooCommerce differenziati in base alla disponibilità.
+
 Il progetto unisce continuità operativa, e-commerce e gestione delle richieste:
 il sito deve accompagnare persone con esigenze di acquisto diverse senza
 separare l’esperienza pubblica dal lavoro interno.
@@ -98,6 +103,7 @@ separare l’esperienza pubblica dal lavoro interno.
 
 Percorso 2016–2026: dal primo sito WordPress a un redesign statico custom con
 contenuti, UX/UI, accessibilità, performance, SEO e migrazione.
+
 Il caso mostra come una relazione professionale possa riprendere un progetto
 storico e trasformarlo seguendo l’evoluzione dei servizi e dei contenuti.
 
@@ -107,6 +113,7 @@ storico e trasformarlo seguendo l’evoluzione dei servizi e dei contenuti.
 
 Redesign del sito corporate collegato a recruiting, contenuti dinamici, dati
 strutturati, SEO, analytics e materiali visuali.
+
 È un esempio di lavoro continuativo: struttura editoriale, comunicazione,
 posizioni aperte e segnali per i motori di ricerca devono restare allineati
 mentre l’organizzazione cambia.
@@ -116,6 +123,7 @@ mentre l’organizzazione cambia.
 ### Gestionale WordPress headless
 
 Lavoro in team sul backend applicativo WordPress per un system integrator, nel contesto di CGM Consulting: contenuti strutturati, dipendenze tra campi, autenticazione Microsoft, permessi granulari e API REST custom per servizi, disponibilità e prenotazioni.
+
 Il frontend separato consuma dati organizzati dal CMS; il valore del progetto
 sta nel disegnare confini, ruoli e responsabilità prima della superficie visiva.
 
@@ -125,6 +133,7 @@ sta nel disegnare confini, ruoli e responsabilità prima della superficie visiva
 
 E-commerce WooCommerce seguito per CGM Consulting tra catalogo, dropshipping, SEO, checkout,
 pagamenti, accessibilità, performance, analytics e manutenzione evolutiva.
+
 La continuità richiede verifiche su prodotti, fornitori, eventi di conversione
 e aggiornamenti, oltre alla sola pubblicazione delle pagine.
 
@@ -147,6 +156,7 @@ Plugin Gutenberg con componenti accessibili e progressive enhancement.
 Accordion, button, carousel, dialog, popup, tabs e tooltip sono costruiti con
 attenzione a tastiera, focus, semantica, riduzione del movimento e caricamento
 delle risorse per blocco.
+
 [WordPress.org](https://wordpress.org/plugins/lumen-aria-blocks/)
 
 ### Couch Remote
@@ -164,6 +174,7 @@ Ambiente personale per sviluppo di plugin WordPress, documentazione,
 isolamento dei progetti e controlli di qualità.
 Riunisce istruzioni, contesto, strumenti da terminale e verifiche per rendere
 più ripetibile il lavoro manuale e assistito da agenti AI.
+
 [Presentazione](https://wponeshot.com/)
 
 ## Metodo
@@ -171,6 +182,7 @@ più ripetibile il lavoro manuale e assistito da agenti AI.
 Parto dal problema e dal contesto d’uso, poi organizzo contenuti, dati,
 interazioni e responsabilità del sistema. Accessibilità, performance, SEO,
 misurazione, documentazione e revisione umana fanno parte del ciclo di lavoro.
+
 Prima di scegliere una tecnologia chiarisco chi aggiornerà il sistema, quali
 azioni devono essere possibili, quali dati devono restare coerenti e come si
 verificherà il risultato dopo il rilascio. Per questo sviluppo e consulenza

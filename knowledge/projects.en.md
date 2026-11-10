@@ -18,7 +18,9 @@ covering content, UX/UI, accessibility, performance, SEO and migration.
 ## Lumen ARIA Blocks
 
 Open source Gutenberg plugin with accessible components and progressive
-enhancement. [WordPress.org](https://wordpress.org/plugins/lumen-aria-blocks/)
+enhancement.
+
+[WordPress.org](https://wordpress.org/plugins/lumen-aria-blocks/)
 
 ## Couch Remote
 
@@ -30,4 +32,6 @@ CLI and open source distribution.
 ## WP OneShot
 
 Personal environment for WordPress plugin development, project documentation,
-isolation and quality checks. [Presentation](https://wponeshot.com/)
+isolation and quality checks.
+
+[Presentation](https://wponeshot.com/)

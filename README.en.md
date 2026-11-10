@@ -58,20 +58,25 @@ teams support the same project, from initial decisions to everyday use.
 
 Creative Director: identity, interfaces, 3D environments, rendering, video,
 brochures and presentations, working with technical leadership.
+
 The work also includes creative-team coordination, event materials and
 conversations with companies, collaborators and potential investors.
 
 ### CGM Consulting · since 2018
 
 Senior Web Solutions & Digital Systems Specialist: WordPress websites, digital tools supporting recruiting, SEO, analytics, accessibility,
-content, integrations and custom tools. In the corporate website redesign I
+content, integrations and custom tools.
+
+In the corporate website redesign I
 connected identity, dynamic content, job templates, structured data, Google
 Jobs, analytics and visual materials to a digital presence that could evolve
 with the organisation.
 
 The role also includes client and technical supplier relationships, headless
 WordPress consultancy, interface and workflow improvements, mentoring and
-training. I developed a WordPress plugin that connects the website to the
+training.
+
+I developed a WordPress plugin that connects the website to the
 recruiting management system and displays aggregate candidate counts by skill.
 
 ### Independent work · 2013–2017
@@ -87,6 +92,7 @@ in 2016 and revisited in 2026.
 Evolution followed since 2018 for CGM Consulting. The 2026 rebuild improves
 user experience and accessibility, adds direct purchasing and WooCommerce paths
 that vary with product availability.
+
 The project connects ongoing operations, e-commerce and request handling: the
 website must support different purchasing needs without separating the public
 experience from internal work.
@@ -97,6 +103,7 @@ experience from internal work.
 
 2016–2026 path: from the first WordPress website to a custom static redesign
 covering content, UX/UI, accessibility, performance, SEO and migration.
+
 It shows how a long professional relationship can revisit an earlier project
 and reshape it around the evolution of services and content.
 
@@ -106,6 +113,7 @@ and reshape it around the evolution of services and content.
 
 Corporate website redesign connected to recruiting, dynamic content, structured
 data, SEO, analytics and visual materials.
+
 It is an example of ongoing work: editorial structure, communication, job
 openings and search signals need to stay aligned as the organisation changes.
 
@@ -114,6 +122,7 @@ openings and search signals need to stay aligned as the organisation changes.
 ### Headless WordPress management system
 
 Team work on a WordPress application backend for a system integrator, through CGM Consulting: structured content, field dependencies, Microsoft authentication, granular permissions and custom REST APIs for services, availability and booking.
+
 The separate frontend consumes data organised by the CMS; the design challenge
 is to define boundaries, roles and responsibilities before the visual layer.
 
@@ -123,6 +132,7 @@ is to define boundaries, roles and responsibilities before the visual layer.
 
 WooCommerce e-commerce work for CGM Consulting across catalogue, dropshipping, SEO, checkout,
 payments, accessibility, performance, analytics and ongoing maintenance.
+
 Continuity requires checks on products, suppliers, conversion events and updates,
 not only publishing the pages.
 
@@ -144,6 +154,7 @@ exposing individual data.
 Gutenberg plugin with accessible components and progressive enhancement.
 Accordion, button, carousel, dialog, popup, tabs and tooltip components address
 keyboard use, focus, semantics, reduced motion and per-block asset loading.
+
 [WordPress.org](https://wordpress.org/plugins/lumen-aria-blocks/)
 
 ### Couch Remote
@@ -158,15 +169,18 @@ diagnostics, packaging and distribution through Snap and Flatpak.
 ### WP OneShot
 
 Personal environment for WordPress plugin development, documentation, project
-isolation and quality checks. [Presentation](https://wponeshot.com/)
+isolation and quality checks.
 It brings together instructions, context, command-line tools and checks to make
 manual and AI-assisted work more repeatable.
+
+[Presentation](https://wponeshot.com/)
 
 ## Method
 
 I start from the problem and context of use, then organise content, data,
 interactions and system responsibilities. Accessibility, performance, SEO,
 measurement, documentation and human review belong in the work cycle.
+
 Before choosing a technology I clarify who will maintain the system, which
 actions must be possible, which data must remain consistent and how the result
 will be checked after release. Development and consultancy therefore stay
